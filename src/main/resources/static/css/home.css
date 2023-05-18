@@ -1,0 +1,23 @@
+.details-table{
+    width: 70%;
+    height: 80%;
+    margin:auto;
+    margin-top: 50px;
+}
+body{
+    background-color: #181a18;
+}
+h2{
+    color: white;
+    background-color: darkblue;
+    box-shadow: 2px 5px black;
+}
+h3{
+    color: white;
+}
+label{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
